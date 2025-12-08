@@ -6,7 +6,8 @@
   </head>
   <body>
     <article>
-      <h1>{{ page.title }} - {{ page.date }}</h1>
+      <h1>{{ page.title }} - {{ page.date | date: "%-d %B %Y" }}
+</h1>
       {{ content }}
     </article>
 
