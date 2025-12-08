@@ -1,0 +1,36 @@
+/* Dark background for the whole page */
+body {
+    background-color: #121212;   /* dark gray/black */
+    color: #f0f0f0;             /* light text for readability */
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 1rem;
+}
+
+/* Links */
+a {
+    color: #80cbc4;  /* teal-ish link color */
+}
+
+a:hover {
+    color: #4db6ac;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+/* Optional: style code blocks if any */
+pre, code {
+    background-color: #1e1e1e;
+    color: #f8f8f2;
+}
+
+/* Optional: style blockquotes */
+blockquote {
+    border-left: 3px solid #80cbc4;
+    color: #cccccc;
+    padding-left: 1rem;
+}
