@@ -14,3 +14,6 @@ title: keep pedaling
     </li>
   {% endfor %}
 </ul>
+
+{% include custom-scripts.html %}
+
