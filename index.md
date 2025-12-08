@@ -1,6 +1,7 @@
 ---
 layout: default
 title: keep pedaling
+comments: false
 ---
 
 # dailies
