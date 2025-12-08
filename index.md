@@ -10,8 +10,7 @@ title: keep pedaling
     <li>
       <a href="{{ post.url | relative_url }}">
   {{ post.date | date: "%-d %B %Y" }}
-</a>
-
+      </a>
     </li>
   {% endfor %}
 </ul>
