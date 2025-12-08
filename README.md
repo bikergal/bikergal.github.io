@@ -7,3 +7,18 @@ I met Char & Denise at Scout Cafe's holiday market. the coffee shop was bustling
 - soup swap - enjoy a sampling of cozy broths of joy
 - nostalgia watch - replay our fave shows or movies from childhood, popcorn mandatory
 - brunch & goals - munch & talk about our aspirations for the coming quarter
+<script src="https://giscus.app/client.js"
+        data-repo="bikergal/bikergal.github.io"
+        data-repo-id="R_kgDOQkdSrg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOQkdSrs4CzhPe"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
