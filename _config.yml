@@ -1,5 +1,14 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site settings
 title: keep pedaling
 description: extraneous thoughts & miles
+
+# Remote theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Permalink structure for posts (year/month/day/title)
+permalink: /:year/:month/:day/:title/
+
+# Future-proof for Jekyll on GitHub Pages
+markdown: kramdown
