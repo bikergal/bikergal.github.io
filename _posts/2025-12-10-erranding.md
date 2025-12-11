@@ -1,5 +1,5 @@
 ---
-default
+layout: default
 title: "erranding"
 comments: true
 ---
@@ -14,3 +14,4 @@ I hashed out a lot of thoughts on the work side with my mentor Ron, a very sweet
 on the non-work side, I just know I'll feel like I'm missing out on life here. I started to mention at Chomsky Day that I felt sad this would be our last in-person attendance for a while, and Pragmatic Dave reminded me not to be pre-sad about something so far away.
 he's right. yet Camille who is still 12 and writing emo songs wants to tell him he's wrong while strumming a guitar dramatically.
 
+{% include custom-scripts.html %}
