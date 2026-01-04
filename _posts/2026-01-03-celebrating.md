@@ -17,3 +17,5 @@ you see just a snapshot of their history, shared memories, and mannerisms. it fe
 - a washing machine turning on whenever someone left the basement
 - a chair moving across an empty attic
 - floor plans floating up in the air
+
+{% include custom-scripts.html %}
