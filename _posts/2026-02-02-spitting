@@ -1,0 +1,12 @@
+---
+layout: default
+title: "spitting"
+comments: true
+---
+
+## miles biked: 0
+## brain dump 
+
+## today's list:
+
+{% include custom-scripts.html %}
